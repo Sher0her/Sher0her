@@ -9,7 +9,7 @@
 -  📚 I'm exploring: Health care careers, entrepreneurship, web design, and personal branding
 - 📫 How to reach me:walkersherika87@gmail.com 
 - 😄 Pronouns:She/Her 
-- ⚡ Fun fact:I**had a pet goat** growing up! 🐐
+- ⚡ Fun fact:I had a pet goat growing up! 🐐
 
  ## 🛠️ Skills & Tools
  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
