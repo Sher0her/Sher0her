@@ -1,6 +1,6 @@
 ## Hi there 👋
 # About me
-
+I’m Sherika,a rising junior at Bronx Health Sciences High School and a current fellow in the Karim Kharbouch Coding Fellowship.
 
 - 🔭 I’m currently working on  My first major project and designing my **personal portfolio**
 - 🌱 I’m currently learning HTML, Python, Canva, and how to use GitHub  
