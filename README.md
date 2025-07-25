@@ -10,6 +10,10 @@ I’m Sherika,a rising junior at Bronx Health Sciences High School and a current
 - 📫 How to reach me:walkersherika87@gmail.com 
 - 😄 Pronouns:She/Her 
 - ⚡ Fun fact:I had a pet goat growing up! 🐐
+## 🔗 Links
+
+- Favorite learning site: [Khan Academy](https://www.khanacademy.org)
+- You can also check out this game I like: [GeoGuessr](https://www.geoguessr.com) 🌍
 
  ## 🛠️ Skills & Tools
  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
